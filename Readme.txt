@@ -16,3 +16,4 @@ I have used two API's as MailGun and SendGrid for send email functionality.
 2. If the MailGun Api is being selected at random, then 3 attempts are being made to send the email using MailGun API if each attempt to send email is not successfull. Now even if the mail is not being sent after the third attempt, then the application sends the email using the SendGrid API. This is true for other case also where the SendGrid API is being selected first at random.
 
 Code Repository:
+https://github.com/thakkarharsh91/KQED
