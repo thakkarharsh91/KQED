@@ -17,3 +17,6 @@ I have used two API's as MailGun and SendGrid for send email functionality.
 
 Code Repository:
 https://github.com/thakkarharsh91/KQED
+
+Tools and Technologies used:
+Eclipse Neon, Jre Jdk 8, Tomcat 8, Angular JS, Java config, SendGrid Api, Mailgun Api, Amazon AWS ec2
